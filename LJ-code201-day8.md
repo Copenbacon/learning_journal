@@ -1,0 +1,3 @@
+#Day 8 9/28/2016#
+
+Good day. Adding forms. No reading homework tonight? I'll take it. Forms are gonna be difficult going forward. Ran into trouble adding a second button today, still haven't figured it out. CLass is going well though, can't believe I'm halfway through already. Looking forward to the rest of this week, finally get to focus some more on design side and prettying things up on this project and maybe some others. Gonna work on some design side stuff more tonight when I get home. All in all, I'm very satisfied with the pace we're moving and what we're learning. Looking forward to more difficult days as time goes on.
