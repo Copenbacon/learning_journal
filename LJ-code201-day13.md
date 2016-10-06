@@ -1,0 +1,3 @@
+#Learning Journal Day 13#
+
+Today went pretty well, pair programming took a while, but we got it done. Andrew seems pretty cool. Learned a bit more about or operators || from Frazier. Super helpful, definitely a niec trick to have in your back pocket. Basically, if everything else passes, the "selector" will still use the last variable when you're not in an "if" statement. Like if you set a var to this.name || 0, and this.name fails, it will select 0. Basically the operator becomes an either/or statement. Pretty cool. very useful. LOGIC. Python seems pretty difficult and I'm definitely gonna wait to hear about JS401 before fully deciding, but I think Python is the way to go.
